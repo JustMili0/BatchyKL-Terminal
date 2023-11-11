@@ -1,4 +1,4 @@
-# BatchyKL-Terminal
+# Batchy Kali Linux - Terminal
 ### A Kali Linux Terminal made in batch.
 ***Not all command included due to some limitations.***
 
