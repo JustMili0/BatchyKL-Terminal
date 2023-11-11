@@ -172,11 +172,9 @@ echo MV - Renames files or/and folders
 echo        Example: mv "oldname.txt" "newname.txt"
 echo.
 pause
-echo EXPORT [/a, /p]- Sets a variable
+echo EXPORT =- Sets a variable
 echo        Example: export var=69 // export var=hi
 echo        export "var=text string with spaces"
-echo        export /a var=1+1
-echo        export /p "var=Input: "
 echo.
 pause
 echo KILLALL [TASKNAME] - Terminates all instances
