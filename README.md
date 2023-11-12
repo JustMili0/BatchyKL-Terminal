@@ -16,9 +16,9 @@ If you know how to fix it WITHOUT ChatGPT, you can help and suggest your fix ide
 I did my best to replicate the Kali Linux terminal, I hope you'll enjoy your expiriance.
 
 ## Planned Updates
-V1.1 - Git / Git Clone command
 V1.2 - Opening programs (e.g. opening notepad or firefox ect with the terminal)
 V1.3 - Commands: date/time, cal, whoami, pwd, history
+V1.4 - Fixed invalid command crash bug & git clone text font change bug
 
 ### Supported Windows Versions
 - Windows 10
