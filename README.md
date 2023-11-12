@@ -17,7 +17,9 @@ I did my best to replicate the Kali Linux terminal, I hope you'll enjoy your exp
 
 ## Planned Updates
 V1.2 - Opening programs (e.g. opening notepad or firefox ect with the terminal)
+
 V1.3 - Commands: date/time, cal, whoami, pwd, history
+
 V1.4 - Fixed invalid command crash bug & git clone text font change bug
 
 ### Supported Windows Versions
