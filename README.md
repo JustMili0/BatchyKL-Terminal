@@ -16,8 +16,9 @@ If you know how to fix it WITHOUT ChatGPT, you can help and suggest your fix ide
 I did my best to replicate the Kali Linux terminal, I hope you'll enjoy your expiriance.
 
 ## Planned Updates
-V1.3 - Commands: date/time, cal, whoami, pwd, history
 V1.4 - Fixed invalid command crash bug & git clone text font change bug
+
+V1.5 - Improved look
 
 ### Supported Windows Versions
 - Windows 10
