@@ -1,2 +1,0 @@
-CD - Opens specified directory
-    Example: cd C:\Users\Username\

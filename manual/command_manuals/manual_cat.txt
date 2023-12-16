@@ -1,2 +1,0 @@
-CAT -  Read from file
-        Example: cat file.txt

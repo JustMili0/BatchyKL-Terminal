@@ -1,2 +1,0 @@
-DIR - Lists all files and folder in a
-       specific directory

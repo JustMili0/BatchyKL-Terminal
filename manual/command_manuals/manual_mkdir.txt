@@ -1,3 +1,0 @@
-MKDIR - Creates new directory
-    Example: mkdir C:\NewDirectory\
-    or C:\Users\%username%\NewDirectory

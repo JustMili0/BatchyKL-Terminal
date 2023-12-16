@@ -1,3 +1,0 @@
-RM [-r] - Deletes a file or a folder
-     Example: rm C:\File.txt
-              rm -r C:\Folder\

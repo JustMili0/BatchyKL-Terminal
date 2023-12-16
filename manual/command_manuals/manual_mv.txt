@@ -1,2 +1,0 @@
-MV - Renames files or/and folders
-    Example: mv "oldname.txt" "newname.txt"

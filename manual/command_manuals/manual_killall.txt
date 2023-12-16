@@ -1,1 +1,0 @@
-KILLALL [TASKNAME] - Terminates all instances of a specific program
