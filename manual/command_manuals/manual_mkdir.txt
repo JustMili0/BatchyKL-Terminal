@@ -1,0 +1,2 @@
+mkdir - create a new directory.
+    Examples: mkdir C:\NewDirectory\, mkdir NewDirectory

@@ -1,0 +1,16 @@
+[APPNAME] - Starts the specified program.
+  - Available programs:
+    - explorer - Windows File Explorer
+    - calc - Calculator
+    - notepad - Notepad text editor
+    - charmap - Character Map
+    - cmd - Command Prompt
+    - regedit - Registry Editor
+    - gpedit - Group Policy Editor
+    - msconfig - System Configuration Utility
+    - control - Control Panel
+    - chrome - Google Chrome
+    - firefox - Mozilla Firefox
+    - brave - Brave Browser
+    - operagx - Opera GX Browser
+    - steam - Steam (Gaming Platform)

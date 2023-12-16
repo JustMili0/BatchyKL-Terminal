@@ -1,0 +1,1 @@
+whoami - display the effective user ID associated with the current user.

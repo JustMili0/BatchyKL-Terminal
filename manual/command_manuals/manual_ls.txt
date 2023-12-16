@@ -1,0 +1,1 @@
+ls - list directory contents (Note: Equivalent to 'dir' in some other systems).

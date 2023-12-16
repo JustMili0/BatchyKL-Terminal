@@ -1,0 +1,1 @@
+man - display the manual page for a command.

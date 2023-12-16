@@ -1,0 +1,1 @@
+history - display a list of previously executed commands.

@@ -1,0 +1,36 @@
+########## Batchy Kali Linux - Terminal Commands ##########
+
+[APPNAME] - Starts the specified program.
+  - Available programs:
+    - explorer - Windows File Explorer
+    - calc - Calculator
+    - notepad - Notepad text editor
+    - charmap - Character Map
+    - cmd - Command Prompt
+    - regedit - Registry Editor
+    - gpedit - Group Policy Editor
+    - msconfig - System Configuration Utility
+    - control - Control Panel
+    - chrome - Google Chrome
+    - firefox - Mozilla Firefox
+    - brave - Brave Browser
+    - operagx - Opera GX Browser
+    - steam - Steam (Gaming Platform)
+cal - display a calendar for the current month or a specified month.
+cat - concatenate and display the content of files.
+cd - change the current working directory.
+clear - clear the terminal screen.
+echo - display a message or value to the terminal.
+git [clone] - distributed version control system for tracking changes in source code.
+            Example: git clone https://github.com/EmojiTvYt2/BatchyKL-Terminal
+history - display a list of previously executed commands.
+kill - send a signal to a process, terminating it.
+killall - kill processes by name.
+ls - list directory contents (Note: Equivalent to 'dir' in some other systems).
+man - display the manual page for a command.
+mkdir - create a new directory.
+mv - move or rename files or directories.
+pwd - print the current working directory.
+rm - remove files or directories.
+touch - create an empty file or update the access and modification times of an existing file.
+whoami - display the effective user ID associated with the current user.
