@@ -13,6 +13,7 @@ I did my best to replicate the Kali Linux terminal, I hope you'll enjoy your exp
 ## Planned Updates
 
 V1.5 - Better Manual, Fixed Commands, New Directory Display (not the pwd one)
+
 V1.6 - Improved Look
 
 ### Supported Windows Versions
