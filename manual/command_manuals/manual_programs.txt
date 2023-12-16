@@ -1,0 +1,4 @@
+[APPNAME] - Opens the specified program.
+
+Available programs: explorer, calc, notepad, charmap, cmd, regedit,
+gpedit, msconfig, control, chrome, firefox, brave, operagx, steam.

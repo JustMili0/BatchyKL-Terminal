@@ -1,0 +1,5 @@
+GIT [CLONE] - Download Github projects
+            Example:
+            git clone [REPO LINK]
+            Example Repository Link:
+https://github.com/EmojiTvYt2/BatchyKL-Terminal

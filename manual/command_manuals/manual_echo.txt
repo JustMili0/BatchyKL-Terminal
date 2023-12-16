@@ -1,0 +1,1 @@
+ECHO - Display text in terminal write to file (Has troubles saving text)

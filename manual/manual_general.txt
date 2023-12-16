@@ -1,0 +1,53 @@
+########## Batchy Kali Linux - Terminal Commands ##########
+
+
+ECHO - Display text in terminal write to file (Has troubles saving text)
+
+TOUCH - Create empty file
+        Example: touch file.txt
+
+CAT -  Read from file
+        Example: cat file.txt
+
+CD - Opens specified directory
+    Example: cd C:\Users\Username\
+
+MKDIR - Creates new directory
+    Example: mkdir C:\NewDirectory\
+    or C:\Users\%username%\NewDirectory
+
+DIR - Lists all files and folder in a
+       specific directory
+
+RM [-r] - Deletes a file or a folder
+     Example: rm C:\File.txt
+              rm -r C:\Folder\
+
+MV - Renames files or/and folders
+    Example: mv "oldname.txt" "newname.txt"
+
+GIT [CLONE] - Download Github projects
+            Example:
+            git clone [REPO LINK]
+            Example Repository Link:
+https://github.com/EmojiTvYt2/BatchyKL-Terminal
+
+KILLALL [TASKNAME] - Terminates all instances of a specific program
+
+KILL [PID] - Terminates a specific processing its Process ID
+
+CLEAR - Clears text in terminal
+
+MAN - Command manual
+
+[APPNAME] - Starts the specified program.
+Available programs: explorer, calc, notepad, charmap, cmd, regedit,
+gpedit, msconfig, control, chrome, firefox, brave, operagx, steam.
+
+CAL - Displays current date
+
+WHOAMI - Displays information about current user
+
+PWD - Displays currently opened directory
+
+HISTORY - Displays all previously used commands
